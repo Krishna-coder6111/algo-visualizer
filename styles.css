@@ -1,0 +1,69 @@
+body {
+    background-color: #222;
+    font-family: 'Courier New', monospace;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    margin: 20px 0;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.control-panel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.control-btn {
+    background-color: #f60;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.control-btn:hover {
+    background-color: #fa8;
+}
+
+.control-select {
+    background-color: #444;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.array-container {
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.array-bar {
+    background-color: #6c757d;
+    width: 10px;
+    height: 10px;
+}

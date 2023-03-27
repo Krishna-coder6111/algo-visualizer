@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algorithm Visualizer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Algorithm Visualizer</h1>
+        <select id="algorithm">
+            <option value="bubble">Bubble Sort</option>
+            <option value="insertion">Insertion Sort</option>
+            <option value="selection">Selection Sort</option>
+            <option value="quick">Quick Sort</option>
+            <option value="merge">Merge Sort</option>
+            <option value="heap">Heap Sort</option>
+            <option value="cocktail">Cocktail Sort</option>
+            <option value="gnome">Gnome Sort</option>
+        </select>
+        <div class="array-container">
+            <!-- Bars will be generated here -->
+        </div>
+        <button id="generateArray">Generate Array</button>
+        <button id="sort">Sort</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
+
