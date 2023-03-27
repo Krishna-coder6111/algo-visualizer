@@ -32,9 +32,9 @@ Algo-Visualizer is a web-based application for visualizing various sorting algor
 git clone https://github.com/Krishna-coder6111/algo-visualizer.git
 ```
 
-Open the index.html file in your preferred web browser.
+2. Open the index.html file in your preferred web browser.
 Contributing
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
