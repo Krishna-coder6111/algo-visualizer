@@ -4,6 +4,8 @@
 This is a web app built with React that visualizes various sorting algorithms. Users can generate a random array of integers and select an algorithm to visualize how it sorts the array step by step.
 
 Screenshot of Algorithm Visualizer
+![image](https://user-images.githubusercontent.com/70067302/228388060-4ffc9ab0-b2f2-49ee-94fa-ca559251ed1f.png)
+
 
 ## Installation and Usage
 To run the app locally, follow these steps:
