@@ -1,3 +1,33 @@
+# Algo Visualizer (REACT version)
+ I was first inspired by watching videos of people building algorithm visualizers while in high school and was immediately captivated by the concept. During Summer 2, I further explored various algorithms and created pseudocodes for each of them, which I incorporated into this app. I also completed a full-stack development course by Full Stack Open (https://fullstackopen.com/en/about/) which provided me with valuable knowledge that helped me bring this app to life.
+ 
+This is a web app built with React that visualizes various sorting algorithms. Users can generate a random array of integers and select an algorithm to visualize how it sorts the array step by step.
+
+Screenshot of Algorithm Visualizer
+
+## Installation and Usage
+To run the app locally, follow these steps:
+
+Clone the repository to your local machine.
+Open a terminal in the project directory and run npm install to install the necessary dependencies.
+Run npm start to start the app.
+Open a web browser and navigate to http://localhost:3000/.
+## Features
+Users can generate a random array of integers between 5 and 100.
+Users can select one of several sorting algorithms to visualize: bubble sort, selection sort, insertion sort, heap sort, merge sort, quick sort, cocktail sort, and gnome sort.
+The app highlights the elements being compared and swapped during each step of the sorting process.
+Users can adjust the speed of the sorting animation using a slider.
+## Technologies Used
+React
+HTML/CSS
+JavaScript
+## Contributing
+Contributions are welcome! If you have an idea for a feature or would like to report a bug, please open an issue on the GitHub repository. If you would like to contribute code, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
