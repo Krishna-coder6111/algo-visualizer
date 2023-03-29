@@ -15,14 +15,14 @@ Open a terminal in the project directory and run npm install to install the nece
 Run npm start to start the app.
 Open a web browser and navigate to http://localhost:3000/.
 ## Features
-Users can generate a random array of integers between 5 and 100.
-Users can select one of several sorting algorithms to visualize: bubble sort, selection sort, insertion sort, heap sort, merge sort, quick sort, cocktail sort, and gnome sort.
-The app highlights the elements being compared and swapped during each step of the sorting process.
-Users can adjust the speed of the sorting animation using a slider.
+- Users can generate a random array of integers between 5 and 100.
+- Users can select one of several sorting algorithms to visualize: bubble sort, selection sort, insertion sort, heap sort, merge sort, quick sort, cocktail sort, and gnome sort.
+- The app highlights the elements being compared and swapped during each step of the sorting process.
+- Users can adjust the speed of the sorting animation using a slider.
 ## Technologies Used
-React
-HTML/CSS
-JavaScript
+- React
+- HTML/CSS
+- JavaScript
 ## Contributing
 Contributions are welcome! If you have an idea for a feature or would like to report a bug, please open an issue on the GitHub repository. If you would like to contribute code, please fork the repository and submit a pull request.
 
