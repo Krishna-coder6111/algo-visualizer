@@ -18,7 +18,6 @@ Open a web browser and navigate to http://localhost:3000/.
 - Users can generate a random array of integers between 5 and 100.
 - Users can select one of several sorting algorithms to visualize: bubble sort, selection sort, insertion sort, heap sort, merge sort, quick sort, cocktail sort, and gnome sort.
 - The app highlights the elements being compared and swapped during each step of the sorting process.
-- Users can adjust the speed of the sorting animation using a slider.
 ## Technologies Used
 - React
 - HTML/CSS
