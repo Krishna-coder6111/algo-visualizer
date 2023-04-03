@@ -2,8 +2,9 @@
  I was first inspired by watching videos of people building algorithm visualizers while in high school and was immediately captivated by the concept. During Summer 2, I further explored various algorithms and created pseudocodes for each of them, which I incorporated into this app. I also completed a full-stack development course by Full Stack Open (https://fullstackopen.com/en/about/) which provided me with valuable knowledge that helped me bring this app to life.
  
 This is a web app built with React that visualizes various sorting algorithms. Users can generate a random array of integers and select an algorithm to visualize how it sorts the array step by step.
+Here is a version made for github pages.
+https://krishna-coder6111.github.io/algo-visualizer/
 
-Screenshot of Algorithm Visualizer
 ![image](https://user-images.githubusercontent.com/70067302/228388060-4ffc9ab0-b2f2-49ee-94fa-ca559251ed1f.png)
 
 
