@@ -1,6 +1,7 @@
 # Algo-Visualizer (Non-React Version)
 
 Algo-Visualizer is a web-based application for visualizing various sorting algorithms. It helps users understand how different algorithms work by displaying the sorting process step-by-step.
+Here is a version made for github pages. https://krishna-coder6111.github.io/algo-visualizer/
 
 ![image](https://user-images.githubusercontent.com/70067302/228083443-9e3a79a6-c230-4926-ad2a-183bc52a5564.png)
 
